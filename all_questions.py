@@ -161,7 +161,7 @@ def question5():
     answers = {}
 
     # type: set
-    answers["(a)"] = set(['A', 'B'])
+    answers["(a)"] = set(['Group A', 'Group B'])
 
     # type: explanatory string (at least four words)
     answers["(a) explain"] = "Closest Points between two clusters"

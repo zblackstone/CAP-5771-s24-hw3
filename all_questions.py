@@ -71,19 +71,19 @@ def question2():
     answers = {}
 
     # type: bool (True/False)
-    answers["(a)"] = -1
+    answers["(a)"] = False
 
     # type: explanatory string (at least four words)
     answers["(a) explain"] = ""
 
     # type: bool (True/False)
-    answers["(b)"] = -1
+    answers["(b)"] = False
 
     # type: explanatory string (at least four words)
     answers["(b) explain"] = ""
 
     # type: bool (True/False)
-    answers["(c)"] = -1
+    answers["(c)"] = False
 
     # type: explanatory string (at least four words)
     answers["(c) explain"] = ""
